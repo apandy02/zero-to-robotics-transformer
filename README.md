@@ -33,14 +33,3 @@ This section contains Jupyter notebooks that provide hands-on experience with co
 ### External Resources
 
 We've compiled a list of websites, online courses, and other repositories that provide supplementary information on neural networks, path planning, and transformers.
-
-## How to Contribute
-
-We welcome contributions from the community. If you'd like to add a resource or suggest an improvement, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your contributions.
-3. Submit a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
